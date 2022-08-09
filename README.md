@@ -25,6 +25,3 @@ Then:
 ## tennisfiche@gmail.com
 
 
-#### Who maintains and contributes to the project
-
-## dj@88cassette
