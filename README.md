@@ -6,15 +6,19 @@
 # Save **RSS** feeds to **MongoDB**
 
 
-##### Why the project is useful
+##### Why the project is usefu?
 
-## Sometimes it is useful to access and search ***historical*** feeds.
+## Sometimes it is useful to access and search historical rss feeds.
 
 
 #### How users can get started with the project?
 
-## Have a mongo database connection and a rss feed you want to save.
-# Add connection string to db.js then add rss feed url to index.js
+* Use a mongo database connection 
+* have an rss feed you want to save.
+Then:
+* Add connection string to db.js 
+* Add rss feed url to index.js
+
 
 #### Where users can get help with your project
 
